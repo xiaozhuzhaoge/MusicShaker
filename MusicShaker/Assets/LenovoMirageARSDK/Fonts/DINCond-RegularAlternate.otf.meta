@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fc7e2953ae7b550458dc948d8fdbf2d3
+timeCreated: 1527047231
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DINCond-RegularAlternate
+  fontNames:
+  - DINCond-RegularAlternate
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

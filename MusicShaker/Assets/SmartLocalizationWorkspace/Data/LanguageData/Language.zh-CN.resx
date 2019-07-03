@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="MirageARSDK.BasicExample.LanguageSetting.Cn" xml:space="preserve">
+		<value>中文</value>
+	</data>
+	<data name="MirageARSDK.BasicExample.LanguageSetting.En" xml:space="preserve">
+		<value>英文</value>
+	</data>
+	<data name="MirageARSDK.BasicExample.LanguageSetting.Title" xml:space="preserve">
+		<value>语言设置</value>
+	</data>
+	<data name="MirageARSDK.CommonMenu.Buttons.Cancel" xml:space="preserve">
+		<value>取消</value>
+	</data>
+	<data name="MirageARSDK.CommonMenu.Buttons.Quit" xml:space="preserve">
+		<value>退出</value>
+	</data>
+	<data name="MirageARSDK.CommonMenu.Dashboard.Brightness" xml:space="preserve">
+		<value>亮度</value>
+	</data>
+	<data name="MirageARSDK.CommonMenu.Dashboard.Volume" xml:space="preserve">
+		<value>音量</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Adaptive.Title" xml:space="preserve">
+		<value>切换已适配机型，选择最适合当前手机的显示区域</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Beacon.Text" xml:space="preserve">
+		<value>请将定位器装入5号电池，打开后调整为粉色，放置在距离你前方1.5~3米的地面上，并留出宽阔的游戏空间。</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Beacon.Title" xml:space="preserve">
+		<value>打开定位器</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Begin" xml:space="preserve">
+		<value>将手机屏幕向下装入托盘后放入头显，并连接数据线</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Button.Sure" xml:space="preserve">
+		<value>确定</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Controller.BeginSearch" xml:space="preserve">
+		<value>搜索控制器</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Controller.Connect" xml:space="preserve">
+		<value>已连接</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Controller.Searching" xml:space="preserve">
+		<value>搜索中</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Controller.Text1" xml:space="preserve">
+		<value>1/打开手柄</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Controller.Text2" xml:space="preserve">
+		<value>2/配对手柄</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Controller.Text3" xml:space="preserve">
+		<value>同时按住Home键与Trigger键5秒开启手柄，此时手柄下部的绿灯将快速闪烁</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Controller.Text4" xml:space="preserve">
+		<value>点击下方搜索按钮后，同时按住Home键和APP键，开始搜索并配对手柄。配对成功时手柄上方将发出蓝光。</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Setting.BeginButton" xml:space="preserve">
+		<value>开始App</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Setting.DownButton" xml:space="preserve">
+		<value>下载应用</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Setting.Hint" xml:space="preserve">
+		<value>设置提醒</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Setting.Text" xml:space="preserve">
+		<value>建议下载Mirage Viewer应用，体验超多AR游戏！</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Splash.Text" xml:space="preserve">
+		<value>点击后继续</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Title.Exit" xml:space="preserve">
+		<value>是否退出？</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Title.No" xml:space="preserve">
+		<value>否</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Title.Yes" xml:space="preserve">
+		<value>是</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Usb.Text" xml:space="preserve">
+		<value>请参考下图，选择适配的数据线，连接手机与头盔。连接后请在弹出页面中勾选默认并确认，允许该游戏访问头盔的USB权限。完成后将手机与头盔断开，继续操作。</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Usb.Title" xml:space="preserve">
+		<value>允许应用访问头盔USB权限</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Welcome.BuyButton" xml:space="preserve">
+		<value>前往购买</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Welcome.HasButton" xml:space="preserve">
+		<value>已拥有</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Welcome.Text" xml:space="preserve">
+		<value>本应用需要特殊硬件才能开始。如果还没有，可点击下方按钮快速购买，体验超多炫酷AR游戏。</value>
+	</data>
+	<data name="MirageARSDK.OOBE.Welcome.Title" xml:space="preserve">
+		<value>欢迎你，Mirager</value>
+	</data>
+</root>

@@ -1,0 +1,98 @@
+﻿[
+  {
+    "id": 10000.0,
+    "name": "HandClap",
+    "star": 5.0,
+    "description": "《HandClap》是Fitz & The Tantrums演唱的歌曲",
+    "img": "HandClap",
+    "Koreography": "HandClapKoreography",
+    "Event": "HandClap",
+    "singerName": "Fitz & The Tantrums",
+    "length": "1899-12-31T03:11:00",
+    "isGuide": 0.0
+  },
+  {
+    "id": 10001.0,
+    "name": "graph",
+    "star": 1.0,
+    "description": null,
+    "img": null,
+    "Koreography": "graph",
+    "Event": "graphTrack",
+    "singerName": null,
+    "length": "1899-12-31T04:11:00",
+    "isGuide": 1.0
+  },
+  {
+    "id": 10002.0,
+    "name": "line",
+    "star": 1.0,
+    "description": null,
+    "img": null,
+    "Koreography": "line",
+    "Event": "lineTrack",
+    "singerName": null,
+    "length": "1899-12-31T04:11:00",
+    "isGuide": 1.0
+  },
+  {
+    "id": 10003.0,
+    "name": "point",
+    "star": 1.0,
+    "description": null,
+    "img": null,
+    "Koreography": "point",
+    "Event": "pointTrack",
+    "singerName": null,
+    "length": "1899-12-31T04:11:00",
+    "isGuide": 1.0
+  },
+  {
+    "id": 10004.0,
+    "name": "Pink Champagne",
+    "star": 3.0,
+    "description": "《Pink Ahampagne》是由美国女歌手爱莉安娜·格兰德演唱，由美国女歌手Ke$ha等创作的一首歌曲，为首张专辑《Yours Truly》的弃曲。",
+    "img": "PINKCHAMPAGNE",
+    "Koreography": "PinkChampagne",
+    "Event": "PinkChampagneTrack",
+    "singerName": "Nick Lopez",
+    "length": "1899-12-31T04:11:00",
+    "isGuide": 0.0
+  },
+  {
+    "id": 10006.0,
+    "name": "世界上的另一个我",
+    "star": 4.0,
+    "description": "《世界上的另一个我》是由阿肆作词、作曲，阿肆、郭采洁演唱的一首歌曲，发行于2017年10月24日。",
+    "img": "世界上另一个我",
+    "Koreography": "ShiJieShangLingYiGeWo",
+    "Event": "ShiJieShangLingYiGeWoTrack",
+    "singerName": "郭采洁&阿肆",
+    "length": "1899-12-31T04:11:00",
+    "isGuide": 0.0
+  },
+  {
+    "id": 10007.0,
+    "name": "心愿便利贴",
+    "star": 2.0,
+    "description": "《心愿便利贴》是台湾电视剧《命中注定我爱你》的片尾曲，由陈静楠作词，方文良作曲，台湾歌手元若蓝、吴忠明演唱。",
+    "img": "心愿便利贴",
+    "Koreography": "XinYuan",
+    "Event": "XinYuanTrack",
+    "singerName": "王欣宇",
+    "length": "1899-12-31T04:11:00",
+    "isGuide": 0.0
+  },
+  {
+    "id": 10008.0,
+    "name": "失恋阵线联盟",
+    "star": 4.0,
+    "description": "失恋阵线联盟由宝丽金唱片公司1990年10月01日出品的唱片专辑。歌曲由“草蜢”蔡一智，蔡一杰和苏志威三个大男孩演唱。电视剧《家有仙妻》主题曲，当年火爆一时。2015年被电影《我的少女时代》作为片尾曲。这首歌是《失恋》的国语版",
+    "img": "失恋阵线联盟",
+    "Koreography": "Shilian",
+    "Event": "ShilianTrack",
+    "singerName": "草蜢",
+    "length": "1899-12-31T04:11:00",
+    "isGuide": 0.0
+  }
+]
